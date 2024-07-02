@@ -22,6 +22,16 @@
 
         <activity android:name=".ShowAllActivity" />
         <activity android:name=".BookInfoActivity" />
+        
+        <activity
+            android:name=".PdfViewerActivity"
+            android:exported="true">
+            <intent-filter android:scheme="http">
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <data android:mimeType="application/pdf" />
+            </intent-filter>
+        </activity>
 
 
 
