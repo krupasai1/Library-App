@@ -21,7 +21,7 @@ The Library Book App is your gateway to a world of literature, offering a divers
   <img src="https://drive.google.com/uc?export=view&id=1V9CNcobd_mq4KZWTpRFo1XWrCIcspTtI" width="200" />
 </p>
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1UzOR3QwYOLcjnhqITNSU-5E8Ka16b3zc" width="200" />
+  <img src="https://drive.google.com/uc?export=view&id=1V8IWvP6V30FtvB55X-7dHg0YG32R5VTp" width="200" />
   <img src="https://drive.google.com/uc?export=view&id=1V-x7oTf4F9zYicOEg4OKt5CM-AC5KtUl" width="200" />
 </p>
 
