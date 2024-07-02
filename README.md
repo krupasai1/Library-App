@@ -7,11 +7,11 @@ The Library Book App is your gateway to a world of literature, offering a divers
 
 # Features
 
--Today's Book: Enjoy a daily recommendation feature that suggests a Book of the Day based on your preferences.
--Genre-wise Organization: Browse books conveniently arranged by genre, including romance, mystery, science fiction, historical fiction, and more.
--Show All Books: Easily navigate through the entire collection with a user-friendly horizontal scrolling view of all available books.
--Book Info Page: Dive deeper into each book with detailed information including summaries, author details, and genre classifications.
--Beautiful UI: Experience an elegant and intuitive user interface designed to enhance your reading experience.
+- Today's Book: Enjoy a daily recommendation feature that suggests a Book of the Day based on your preferences.
+- Genre-wise Organization: Browse books conveniently arranged by genre, including romance, mystery, science fiction, historical fiction, and more.
+- Show All Books: Easily navigate through the entire collection with a user-friendly horizontal scrolling view of all available books.
+- Book Info Page: Dive deeper into each book with detailed information including summaries, author details, and genre classifications.
+- Beautiful UI: Experience an elegant and intuitive user interface designed to enhance your reading experience.
 
 # Screenshots
 <p align="center">
