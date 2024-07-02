@@ -16,13 +16,13 @@ The Library Book App is your gateway to a world of literature, offering a divers
 
 # Screenshots
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1UaI1liQl9jbqSnius35Zrdz-oM3z6jqW" width="200" />
+  <img src="https://drive.google.com/uc?export=view&id=1VAzVVjY31Q5pOiykt8aT8flRN7XlHPPx" width="200" />
   <img src="https://drive.google.com/uc?export=view&id=1V7nMNC0K4U-L4SDF-4xpRlsxKK6Wal4A" width="200" />
   <img src="https://drive.google.com/uc?export=view&id=1V9CNcobd_mq4KZWTpRFo1XWrCIcspTtI" width="200" />
 </p>
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1V8IWvP6V30FtvB55X-7dHg0YG32R5VTp" width="200" />
-  <img src="https://drive.google.com/uc?export=view&id=1V-x7oTf4F9zYicOEg4OKt5CM-AC5KtUl" width="200" />
+  <img src="https://drive.google.com/uc?export=view&id=1V858mta1J_93bvFS2gyQEhfnzjctCCdM" width="200" />
 </p>
 
 # Download APK
