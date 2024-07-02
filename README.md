@@ -12,6 +12,7 @@ The Library Book App is your gateway to a world of literature, offering a divers
 - Show All Books: Easily navigate through the entire collection with a user-friendly horizontal scrolling view of all available books.
 - Book Info Page: Dive deeper into each book with detailed information including summaries, author details, and genre classifications.
 - Beautiful UI: Experience an elegant and intuitive user interface designed to enhance your reading experience.
+- More than 50 Books: Access a vast library of over 50 books to satisfy your reading cravings.
 
 # Screenshots
 <p align="center">
